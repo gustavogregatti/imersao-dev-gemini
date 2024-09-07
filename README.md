@@ -1,4 +1,4 @@
-##  **Busca Musical Brasileira: Seu guia para a música nacional!**
+##  **Busca Musical Brasileira: Seu guia para a música nacional! - Imersão DEV com Google Gemini**
 
 **O que faz essa aplicação?**
 
